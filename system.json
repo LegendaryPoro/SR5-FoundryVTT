@@ -1,7 +1,7 @@
 {
-    "id": "shadowrun5e",
-    "title": "Shadowrun 5th Edition",
-    "description": "Shadowrun 5th Edition game",
+    "id": "shadowrun4e",
+    "title": "Shadowrun 5th Edition but actually it's 4e",
+    "description": "Shadowrun 5th Edition game but not really",
     "authors": [
         {
             "name": "Jan Schoska",
@@ -237,3 +237,4 @@
     "primaryTokenAttribute": "track.physical",
     "secondaryTokenAttribute": "track.stun"
 }
+
